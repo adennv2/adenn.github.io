@@ -1,0 +1,18 @@
+.container{
+    background-position: -20%;
+    text-align: center;
+    box-shadow: 10px 10px 10pc;
+    width: fit-content;
+    margin-inline: auto;
+    padding: 50px;
+    margin-top: 220px;
+    background-color: white;
+    justify-content: center;
+}
+
+.header{
+    background-image: url(image/sza-album-sos.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
